@@ -1,0 +1,11 @@
+# HICOS : contact de sécurité (RFC 9116).
+#
+# Pour signaler une faille : décrivez-la et comment la reproduire, sans les
+# données réelles d’une autre personne. Réponse dans un délai de 30 jours.
+# To report a vulnerability: describe it and how to reproduce it, without
+# anyone else’s real data. We reply within 30 days.
+
+Contact: mailto:mindarchitectpro@gmail.com
+Expires: 2027-11-17T00:00:00.000Z
+Preferred-Languages: fr, en
+Canonical: https://biglepro.github.io/hicos-legal/.well-known/security.txt
